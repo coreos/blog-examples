@@ -1,0 +1,1 @@
+Examples for: https://coreos.com/blog/developing-prometheus-alerts-for-etcd.html
